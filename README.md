@@ -6,18 +6,47 @@
 ![Android](https://img.shields.io/badge/Android-9.0%2B-green.svg)
 ![License](https://img.shields.io/badge/license-Proprietary-red.svg)
 
-**Официальное Android приложение Solafon**
+**Official Android Application / Официальное Android приложение / 官方 Android 应用程序**
 
 [📥 Download Latest](https://github.com/Solanafon/solafon-android/releases/latest) • [📋 All Releases](https://github.com/Solanafon/solafon-android/releases) • [🐛 Report Issue](https://github.com/Solanafon/solafon-main/issues)
-
-**Language / Язык / 语言:** [🇬🇧 English](#english) • [🇷🇺 Русский](#русский) • [🇨🇳 中文](#中文)
 
 </div>
 
 ---
 
+## 🌍 Select Language / Выберите язык / 选择语言
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="#english">
+<img src="https://flagcdn.com/w40/gb.png" width="40" height="30" alt="English">
+<br><strong>English</strong>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="#русский">
+<img src="https://flagcdn.com/w40/ru.png" width="40" height="30" alt="Русский">
+<br><strong>Русский</strong>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="#中文">
+<img src="https://flagcdn.com/w40/cn.png" width="40" height="30" alt="中文">
+<br><strong>中文</strong>
+</a>
+</td>
+</tr>
+</table>
+
+---
+
 <a name="english"></a>
 ## 🇬🇧 English
+
+<div align="right">
+<small><a href="#-select-language--выберите-язык--选择语言">↑ Back to languages / Вернуться к языкам / 返回语言选择</a></small>
+</div>
 
 ### 🚀 Quick Installation
 
@@ -82,6 +111,10 @@ Create an [Issue](https://github.com/Solanafon/solafon-main/issues) in the main 
 <a name="русский"></a>
 ## 🇷🇺 Русский
 
+<div align="right">
+<small><a href="#-select-language--выберите-язык--选择语言">↑ Вернуться к языкам / Back to languages / 返回语言选择</a></small>
+</div>
+
 ### 🚀 Быстрая установка
 
 #### Через GitHub Releases (Рекомендуется)
@@ -144,6 +177,10 @@ https://github.com/Solanafon/solafon-android/releases/latest/download/solafon-v1
 
 <a name="中文"></a>
 ## 🇨🇳 中文
+
+<div align="right">
+<small><a href="#-select-language--выберите-язык--选择语言">↑ 返回语言选择 / Back to languages / Вернуться к языкам</a></small>
+</div>
 
 ### 🚀 快速安装
 
