@@ -1,4 +1,4 @@
-```md
+
 # Solafon Android
 
 Official Android app.
@@ -28,4 +28,3 @@ This repository contains **release artifacts only**. Source code is private.
 
 **Website:** https://solafon.com  
 **Support:** https://t.me/+mwEQjmqrHMliNzFk
-```
